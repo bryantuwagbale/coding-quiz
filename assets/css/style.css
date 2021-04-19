@@ -21,13 +21,6 @@ body {
     background-color: hsl(var(--hue), 100%, 20%);
 }
 
-body.correct {
-    --hue:var(--hue-correct);
-}
-
-body.wrong {
-    --hue: var(--hue-wrong);
-}
 
 .container {
     width: 800px;
@@ -36,6 +29,17 @@ body.wrong {
     border-radius: 7px;
     padding: 10px;
     box-shadow: 0 0 10px 2px;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .btn-grid {
@@ -66,7 +70,13 @@ body.wrong {
     align-items: center;
 }
 
-/* hides all buttons until pressed */ 
+.score-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 .hide {
     display: none;
 }
