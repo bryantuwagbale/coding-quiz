@@ -72,7 +72,8 @@ var questions = [
             {text: "Heated Yeild Marketing Logic", correct: false},
             {text: "Happy Yodeling Manipulative Love", correct: false}
         ]
-    }
+
+    },
     
 ]
 
