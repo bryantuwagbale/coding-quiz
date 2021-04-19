@@ -6,3 +6,5 @@
 ![127 0 0 1_5501_index html](https://user-images.githubusercontent.com/78828750/115174215-75f93a80-a08e-11eb-9152-6fa700cbc075.png)
 
 Link to site: https://bryantuwagbale.github.io/coding-quiz/
+
+Credits: Basic structure and functionality made with the help of Web Dev Simplified on Youtube
